@@ -1,6 +1,6 @@
 {
-  "git_name": "Nathan Urwin",
-  "git_email": "me@nathanurwin.com",
+  "git_name": "Rajat Shrestha",
+  "git_email": "rajat.shrestha@eydean",
   "git_ignore": "windows,macos,linux,git",
 
   "repo_slug": "cookiecutter-git-demo",
