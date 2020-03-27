@@ -121,7 +121,7 @@ See [Usage](#usage)
 ### Contributors
 
 ```bash
-$ git clone https://github.com/NathanUrwin/cookiecutter-git
+$ git clone https://github.com/ShresthaRajat/cookiecutter-git
 Cloning into 'cookiecutter-git'...
 remote: Counting objects: 757, done.
 remote: Compressing objects: 100% (80/80), done.
