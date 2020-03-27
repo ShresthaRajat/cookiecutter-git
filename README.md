@@ -153,9 +153,11 @@ See [CONTRIBUTING](#contributing)
 ## Usage
 
 ```bash
-$ mkdir -p ~/Projects/NathanUrwin
-$ cd ~/Projects/NathanUrwin
-$ cookiecutter gh:NathanUrwin/cookiecutter-git
+$ mkdir -p ~/Projects/Test
+$ cd ~/Projects/Test
+$ cookiecutter gh:Shrestharajat/cookiecutter-git
+
+# or cookiecutter ~/cookiecutter-git (if it is cloned in the home directory)
 You've downloaded /home/user/.cookiecutters/cookiecutter-git before. Is it okay to delete and re-download it? [yes]:
 git_name [Nathan Urwin]:
 git_email [me@nathanurwin.com]:
